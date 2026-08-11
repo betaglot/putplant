@@ -1442,3 +1442,8 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - skreefing body angles
     - Body position changes the mass on impact OneLegSpade Slam is more Momentum than TwoLegSpadeSlam. With same acceleration
     - Body Lean adds to Spade RadialSwing
+- EKON Imprint left in soil when you Skreef a Rock or Log
+- Shade for kit
+    - To prevent your food from melting and water from getting warmed by the sun
+    - To preserve Kit material from UV fading
+        - The Husqvarna Technical Forest Helmet features a built-in UV expire indicator that tracks sunlight exposure. The indicator changes color as the plastic shell absorbs UV rays, letting you know when the material weakens and the helmet needs replacement
