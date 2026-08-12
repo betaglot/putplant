@@ -27,7 +27,7 @@ let elementName = "Replant"
 - ErrorDetection
 - DensityEval
 - HoleEval
-- KloseEval
+- EnkloseEval
 - Replant without Neonektomy
 - SkreefEval
 

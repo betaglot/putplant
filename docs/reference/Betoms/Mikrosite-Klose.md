@@ -6,7 +6,7 @@ search: false
 // BetomName=""
 </script>
 
-# <BB labor="Mikrosite.Klose" />
+# <BB labor="Mikrosite.Enklose" />
 
 Aliases: HoleClose
 

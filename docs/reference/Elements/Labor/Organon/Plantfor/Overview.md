@@ -31,7 +31,7 @@ let elementName = "Plantfor"
 - Plantfor.Aktion
     - Roll up your back bag layer to shell from water and dirt
     - Bag.Purga
-    - Bag.Klose
+    - Bag.Enklose
     - Pack into itself for Transit, especially PostSeason
 
 - PlantforCarry: One Shoulder strap when one side is empty
@@ -40,7 +40,7 @@ let elementName = "Plantfor"
     - Bag
         - Rim
         - SilviBag
-            - SilviBag.Klose
+            - SilviBag.Enklose
             - SilviBag.Open
             - SilviBag.Preserve
             - SilviBag.

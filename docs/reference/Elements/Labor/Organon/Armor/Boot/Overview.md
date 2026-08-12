@@ -43,7 +43,7 @@ let elementName = "Boot"
     - [Boot.Tighten]
     - [Boot.Loosen]
     - [Boot.Skim]
-    - [Boot.Klose]
+    - [Boot.Enklose]
     - [Boot.Don]
     - [Boot.Don]
 

@@ -56,7 +56,7 @@ search: false
 46. Scaffold
 47. MineralSoil could be AnteSeason
 48. "put some more energy into it, like you're angry" SpadeSlam
-49. Only doing one type of Klose increases the probability of RSI Repetitive Strain Injury
+49. Only doing one type of Enklose increases the probability of RSI Repetitive Strain Injury
 50. "distance appropriate" Density Spacing
 51. Seedling Depth could be AnteSeason
 52. "did I just hear that?"
@@ -99,7 +99,7 @@ search: false
 86. Add: Start day with a demonstration and get them to analyze as a test
 87. Demonstrator: "What am I doing wrong?"
 88. Fastest planter should be on the perimeter to avoid passing and therefore waiting or having to think about where other planters will plantate their next tree. Planters should be following trees and not planters in the same way that they only follow trees when in piece alone
-89. Too many subaktions for [Klose|Mano]
+89. Too many subaktions for [Enklose|Mano]
 90. Nobody knows what SpadeSkreef is
 91. How to tell difference between natural and planted tree? Skreef
 92. Is there a benefit to changing the coaches each day and changing the groups of planters too? Or is the familiarityEase an advantage?
@@ -137,7 +137,7 @@ search: false
 124. Walking through Rookie Planted land. Can you tell the planter's ability by walking through the land?
     - Flagging location (Wasted Flag)
     - Multiple Kompress prints. (Knuckle+Knuckle), (Knuckle+Boot), (Boot+Boot)
-    - Not Minimal, Inoptimal, Aminimal Klose Aktion Count
+    - Not Minimal, Inoptimal, Aminimal Enklose Aktion Count
 125. talk to other people to compensate for relativism. The goal of planting is not creativity. Being special or unique, your own way of doing things has no intrinsic value, unlike in other performing arts like film, theatre, painting, visual arts in general.
 126. Groups should be rearranged given the observation of personalities like GouldLake trip group sets. {coach:"",Planter1:"",Planter2,""}. Specify the DataStructures required for input. An app or paper template form input paper, input form could facilitate the dynamics of RookieShift. To keep track of people that you don't have a salient mental model (mental data structure) yet. To use to organize planters
 127. Good Mikrosite that was erroneously abandoned. An open fully dilated hole in cream which was abandoned for no apparent reason is a sign of a rookie's doubt

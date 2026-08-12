@@ -31,6 +31,6 @@ let elementName = "WetSoil"
 - Ski
 - Slide into a mound then submerge your boot past the cuff
 - WetSoil over the top of your [Boot.Cuff] will run down your leg into to boot
-- [Slap.Klose|WetSoil]
+- [Slap.Enklose|WetSoil]
 
 :::

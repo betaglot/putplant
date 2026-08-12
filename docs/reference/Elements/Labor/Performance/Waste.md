@@ -38,6 +38,6 @@ let elementName = "Waste"
     - Site
         - "There was a cream patch right beside where you skreefed"
 - Most wasteful alternative BETA
-- Waste of Time from lack of confidence, Excessive testing with Spade and after Klose
+- Waste of Time from lack of confidence, Excessive testing with Spade and after Enklose
 
 :::

@@ -84,7 +84,7 @@ search: false
         - Middle Planter follows Zone.Midline
         - Flankers do <span class="via">FillPattern(ZigZagLine)</span>
 - 1.19
-    - First SubAktion of Klose gathers, then the second Aktion Stamps
+    - First SubAktion of Enklose gathers, then the second Aktion Stamps
         - Gather then Kompakt
     - <BB labor='(Spade, Boot.Rand)'soma=''ekos=''via=''motor='Purga'anima=''/>
     - [Rand, Purga.Scrape] along SpadeEdge
@@ -234,7 +234,7 @@ search: false
     - Overgeneralization of Rule
         - Don't bounce up and down slopes
     - Pedagogy: High Risk of Error
-        - "I don't want to teach them BootKlose because some are pretty sloppy" then when to tell them that you can BootKlose?
+        - "I don't want to teach them BootEnklose because some are pretty sloppy" then when to tell them that you can BootEnklose?
             - How to ensure that Planters are using the minimum force required, so that they don't get PatellarTendonitis?
         - Ratio(Instructor: Planter) is an Instruction Constraint
 - 4.05
@@ -251,8 +251,8 @@ search: false
     - Get ULine clipboard Box
     - Nonlinear BagUp Size increase. Heavy then light could be useful. Increase by Bundle units
 - 4.08
-    - Leaner relative to Klose.Direction
-    - Leaner is never AntiDirection of Klose
+    - Leaner relative to Enklose.Direction
+    - Leaner is never AntiDirection of Enklose
     - Leaner.ParallelTo(Blade)
     - Leaner.PerpendicularTo(Blade)
     - [Leaner, Anterior] = [TreeFault, Direction] = [LABON, VION]
@@ -281,7 +281,7 @@ search: false
 - 4.16
     - How to know which tree to remove from a HighDensityPlot?
     - Each BagUp has a new lesson and things to keep in mind
-    - How to know whether to BootKlose or ManoKlose?
+    - How to know whether to BootEnklose or ManoEnklose?
     - Temporary BagRepair when on the Block
         - Paracord
         - ZipTies
@@ -289,7 +289,7 @@ search: false
     - BootArchKontakt prevents LogRoll
         - See Lumberjack Games LogRoll
     - Place flag on the EkonTakt which has the highest probability of keeping the flag from blowing away
-    - GuideNeon during BookKlose to maintain NeonPosition
+    - GuideNeon during BookEnklose to maintain NeonPosition
         - Maintain RootDepth if the hole is deeper than roots
         - Maintain Vertical Stem to prevent Leaner
 - 4.18
@@ -320,10 +320,10 @@ search: false
         - Produce to predict
         - Prefix("pro-") == English("from")
 - 4.24
-    - FootKlose
+    - FootEnklose
     - FlatPrint
     - <span class="ekos">Print is EKOS</span>
-    - The result of Klose.Kompakt() is a Print.
+    - The result of Enklose.Kompakt() is a Print.
         - A Print which extended past NeonStem is evidence of a leaner
     - BootPrint
     - ManoPrint
@@ -356,7 +356,7 @@ search: false
     - Keep shoulder straps off traps
     - Tendons don't like corners
     - radior could cause tendonitis if it's too tight
-    - ManoKlose.Gather() without Twist
+    - ManoEnklose.Gather() without Twist
     - BootToeSkreef is less injurious than HeelSkreef because Heel will displace Fibula
 - 5.05
     - Increase GripRadius of BoxHandle to reduce PinchPoint in fingers

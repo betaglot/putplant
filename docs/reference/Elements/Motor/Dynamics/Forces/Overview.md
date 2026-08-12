@@ -28,7 +28,7 @@ let elementName = "Force"
     - “Put your whole body behind a punch”  
     - LocalWeight  
     - Local Mass using Gravity to add energy to an AKTION  
-        - Klose  
+        - Enklose  
         - Kompress  
         - Slam  
         - Probe  

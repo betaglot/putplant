@@ -125,7 +125,7 @@ Thumb,_Is_A_Possible_Somon_Of_,Flex
 Wrist,_Is_A_Possible_Somon_Of_,Flex
 Don,_Has_The_Possible_Somon_,Foot
 Hook,_Has_The_Possible_Somon_,Foot
-Klose,_Has_The_Possible_Somon_,Foot
+Enklose,_Has_The_Possible_Somon_,Foot
 Kontakt,_Has_The_Possible_Somon_,Foot
 Modify,_Has_The_Possible_Somon_,Foot
 Obstacle,_Has_The_Possible_Somon_,Foot
@@ -141,7 +141,7 @@ Clean  ,_Has_The_Possible_Somon_,Hand
 Defend,_Has_The_Possible_Somon_,Hand
 Dig,_Has_The_Possible_Somon_,Hand
 Don,_Has_The_Possible_Somon_,Hand
-Klose,_Has_The_Possible_Somon_,Hand
+Enklose,_Has_The_Possible_Somon_,Hand
 Knot,_Has_The_Possible_Somon_,Hand
 Kompakt,_Has_The_Possible_Somon_,Hand
 Kontakt,_Has_The_Possible_Somon_,Hand
@@ -203,8 +203,8 @@ Slide,_Has_The_Possible_Somon_,IndexFinger_ProximalPhalanges
 Kontakt,_Has_The_Possible_Somon_,Jaw
 Modify,_Has_The_Possible_Somon_,Jaw
 Slide,_Has_The_Possible_Somon_,Jaw
-Foot,_Is_A_Possible_Somon_Of_,Klose
-Hand,_Is_A_Possible_Somon_Of_,Klose
+Foot,_Is_A_Possible_Somon_Of_,Enklose
+Hand,_Is_A_Possible_Somon_Of_,Enklose
 Extend,_Has_The_Possible_Somon_,Knee
 Flex,_Has_The_Possible_Somon_,Knee
 Kontakt,_Has_The_Possible_Somon_,Knee
@@ -775,7 +775,7 @@ Flex ,_Has_The_Possible_Somon_,Thumb
 Flex ,_Has_The_Possible_Somon_,Wrist
 Foot ,_Is_A_Possible_Somon_Of_,Don
 Foot ,_Is_A_Possible_Somon_Of_,Hook
-Foot ,_Is_A_Possible_Somon_Of_,Klose
+Foot ,_Is_A_Possible_Somon_Of_,Enklose
 Foot ,_Is_A_Possible_Somon_Of_,Kontakt
 Foot ,_Is_A_Possible_Somon_Of_,Modify
 Foot ,_Is_A_Possible_Somon_Of_,Obstacle
@@ -791,7 +791,7 @@ Hand ,_Is_A_Possible_Somon_Of_,Clean
 Hand ,_Is_A_Possible_Somon_Of_,Defend
 Hand ,_Is_A_Possible_Somon_Of_,Dig
 Hand ,_Is_A_Possible_Somon_Of_,Don
-Hand ,_Is_A_Possible_Somon_Of_,Klose
+Hand ,_Is_A_Possible_Somon_Of_,Enklose
 Hand ,_Is_A_Possible_Somon_Of_,Knot
 Hand ,_Is_A_Possible_Somon_Of_,Kompakt
 Hand ,_Is_A_Possible_Somon_Of_,Kontakt
@@ -853,8 +853,8 @@ IndexFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Slide
 Jaw ,_Is_A_Possible_Somon_Of_,Kontakt
 Jaw ,_Is_A_Possible_Somon_Of_,Modify
 Jaw ,_Is_A_Possible_Somon_Of_,Slide
-Klose ,_Has_The_Possible_Somon_,Foot
-Klose ,_Has_The_Possible_Somon_,Hand
+Enklose ,_Has_The_Possible_Somon_,Foot
+Enklose ,_Has_The_Possible_Somon_,Hand
 Knee ,_Is_A_Possible_Somon_Of_,Extend
 Knee ,_Is_A_Possible_Somon_Of_,Flex
 Knee ,_Is_A_Possible_Somon_Of_,Kontakt
@@ -1417,27 +1417,27 @@ Trot ,_Requires_The_Somon_,Leg
 Branta,_Is_A_SubAktion_Of_,Amble
 Krampon,_Is_A_SubAktion_Of_,Amble
 Amble        ,_Is_A_SuperAktion_Of_,Branta
-Klose,_Is_A_SuperAktion_Of_,Drag
-Klose,_Is_A_SuperAktion_Of_,Kick
-Drag,_Is_A_SubAktion_Of_,Klose
-Kick,_Is_A_SubAktion_Of_,Klose
-Pugno,_Is_A_SubAktion_Of_,Klose
-Slap,_Is_A_SubAktion_Of_,Klose
+Enklose,_Is_A_SuperAktion_Of_,Drag
+Enklose,_Is_A_SuperAktion_Of_,Kick
+Drag,_Is_A_SubAktion_Of_,Enklose
+Kick,_Is_A_SubAktion_Of_,Enklose
+Pugno,_Is_A_SubAktion_Of_,Enklose
+Slap,_Is_A_SubAktion_Of_,Enklose
 Amble       ,_Is_A_SuperAktion_Of_,Krampon
-Klose,_Is_A_SuperAktion_Of_,Pugno
-Klose,_Is_A_SuperAktion_Of_,Slap
+Enklose,_Is_A_SuperAktion_Of_,Pugno
+Enklose,_Is_A_SuperAktion_Of_,Slap
 Amble ,_Is_A_SuperAktion_Of_,Branta
 Amble ,_Is_A_SuperAktion_Of_,Krampon
 Branta ,_Is_A_SubAktion_Of_,Amble        
-Drag ,_Is_A_SubAktion_Of_,Klose
-Kick ,_Is_A_SubAktion_Of_,Klose
-Klose ,_Is_A_SuperAktion_Of_,Drag
-Klose ,_Is_A_SuperAktion_Of_,Kick
-Klose ,_Is_A_SuperAktion_Of_,Pugno
-Klose ,_Is_A_SuperAktion_Of_,Slap
+Drag ,_Is_A_SubAktion_Of_,Enklose
+Kick ,_Is_A_SubAktion_Of_,Enklose
+Enklose ,_Is_A_SuperAktion_Of_,Drag
+Enklose ,_Is_A_SuperAktion_Of_,Kick
+Enklose ,_Is_A_SuperAktion_Of_,Pugno
+Enklose ,_Is_A_SuperAktion_Of_,Slap
 Krampon ,_Is_A_SubAktion_Of_,Amble       
-Pugno ,_Is_A_SubAktion_Of_,Klose
-Slap ,_Is_A_SubAktion_Of_,Klose
+Pugno ,_Is_A_SubAktion_Of_,Enklose
+Slap ,_Is_A_SubAktion_Of_,Enklose
 Mano,_Is_The_Possible_Tool_Of_,Dilate
 Spade,_Is_The_Possible_Tool_Of_,Dilate
 Dilate,_Has_The_Possible_Tool_,Mano
@@ -1497,7 +1497,7 @@ Hook,_Is_A_SubTaxon_Of_,Aktion
 Iguana,_Is_A_SubTaxon_Of_,Aktion
 Jump,_Is_A_SubTaxon_Of_,Aktion
 Kick,_Is_A_SubTaxon_Of_,Aktion
-Klose,_Is_A_SubTaxon_Of_,Aktion
+Enklose,_Is_A_SubTaxon_Of_,Aktion
 Kneel,_Is_A_SubTaxon_Of_,Aktion
 Knot,_Is_A_SubTaxon_Of_,Aktion
 Kompakt,_Is_A_SubTaxon_Of_,Aktion
@@ -1887,7 +1887,7 @@ Multitool,_Is_A_SubTaxon_Of_,Kit
 RepairKit,_Is_A_SubTaxon_Of_,Kit
 Rope,_Is_A_SubTaxon_Of_,Kit
 Texture,_Is_A_SubTaxon_Of_,Klimon
-Aktion,_Is_A_SuperTaxon_Of_,Klose
+Aktion,_Is_A_SuperTaxon_Of_,Enklose
 Leg,_Is_A_SuperTaxon_Of_,Knee
 Aktion,_Is_A_SuperTaxon_Of_,Kneel
 Kit,_Is_A_SuperTaxon_Of_,Knife
@@ -2271,7 +2271,7 @@ Aktion ,_Is_A_SuperTaxon_Of_,Hook
 Aktion ,_Is_A_SuperTaxon_Of_,Iguana
 Aktion ,_Is_A_SuperTaxon_Of_,Jump
 Aktion ,_Is_A_SuperTaxon_Of_,Kick
-Aktion ,_Is_A_SuperTaxon_Of_,Klose
+Aktion ,_Is_A_SuperTaxon_Of_,Enklose
 Aktion ,_Is_A_SuperTaxon_Of_,Kneel
 Aktion ,_Is_A_SuperTaxon_Of_,Knot
 Aktion ,_Is_A_SuperTaxon_Of_,Kompakt
@@ -2661,7 +2661,7 @@ Kit ,_Is_A_SuperTaxon_Of_,Multitool
 Kit ,_Is_A_SuperTaxon_Of_,RepairKit
 Kit ,_Is_A_SuperTaxon_Of_,Rope
 Klimon ,_Is_A_SuperTaxon_Of_,Texture
-Klose ,_Is_A_SubTaxon_Of_,Aktion
+Enklose ,_Is_A_SubTaxon_Of_,Aktion
 Knee ,_Is_A_SubTaxon_Of_,Leg
 Kneel ,_Is_A_SubTaxon_Of_,Aktion
 Knife ,_Is_A_SubTaxon_Of_,Kit
@@ -3043,7 +3043,7 @@ Doff,_Is_A_Method_Of_,Glove
 Don,_Is_A_Method_Of_,Glove
 Mano,_Is_A_Method_Of_,Glove
 Spade,_Has_The_Method_,Hook
-Mikrosite,_Has_The_Method_,Klose
+Mikrosite,_Has_The_Method_,Enklose
 Layer,_Has_The_Method_,Knot
 Markum,_Has_The_Method_,Knot
 Rope,_Has_The_Method_,Knot
@@ -3072,7 +3072,7 @@ Mano,_Is_A_Method_Of_,Markum
 Rip,_Is_A_Method_Of_,Markum
 Roll,_Is_A_Method_Of_,Markum
 Eval,_Is_A_Method_Of_,Mikrosite
-Klose,_Is_A_Method_Of_,Mikrosite
+Enklose,_Is_A_Method_Of_,Mikrosite
 Plantafor,_Has_The_Method_,Modify
 Mano,_Is_A_Method_Of_,Neon
 Doff,_Is_A_Method_Of_,Plantafor
@@ -3169,7 +3169,7 @@ Glove ,_Has_The_Method_,Doff
 Glove ,_Has_The_Method_,Don
 Glove ,_Has_The_Method_,Mano
 Hook ,_Is_A_Method_Of_,Spade
-Klose ,_Is_A_Method_Of_,Mikrosite
+Enklose ,_Is_A_Method_Of_,Mikrosite
 Knot ,_Is_A_Method_Of_,Layer
 Knot ,_Is_A_Method_Of_,Markum
 Knot ,_Is_A_Method_Of_,Rope
@@ -3198,7 +3198,7 @@ Markum ,_Has_The_Method_,Mano
 Markum ,_Has_The_Method_,Rip
 Markum ,_Has_The_Method_,Roll
 Mikrosite ,_Has_The_Method_,Eval
-Mikrosite ,_Has_The_Method_,Klose
+Mikrosite ,_Has_The_Method_,Enklose
 Modify ,_Is_A_Method_Of_,Plantafor
 Neon ,_Has_The_Method_,Mano
 Plantafor ,_Has_The_Method_,Doff

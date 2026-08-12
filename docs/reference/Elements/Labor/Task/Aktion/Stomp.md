@@ -25,6 +25,6 @@ let elementName = "Stomp"
 - Leg
 - Injury
 - Kompress
-- Klose
+- Enklose
 
 :::

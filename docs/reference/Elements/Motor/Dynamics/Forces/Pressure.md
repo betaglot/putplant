@@ -28,7 +28,7 @@ let elementName = "Pressure"
 - Crush  
     - [Error: Crush]  
 - Kompress  
-- Klose  
+- Enklose  
 - Pressure of waistbelt on waist  
 - Kompakt
 :::

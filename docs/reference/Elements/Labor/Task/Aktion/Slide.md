@@ -27,6 +27,6 @@ let elementName = "Slide"
 - Slide Flag through Flagger to load it
 - Slide through Hand
 - Slide TreeHand and Seedling down [Blade.Konvex] during [Mikrosite.Ingress]
-- Hand Slide up seedling to support it while [Klose.Boot]
+- Hand Slide up seedling to support it while [Enklose.Boot]
 
 :::

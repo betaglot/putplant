@@ -26,6 +26,6 @@ let elementName = "Root"
 - KryptoRoot
 - Roots in Hole
 - Root Chop in Hole
-- Root preventing Klose, especially [Klose.Boot]
+- Root preventing Enklose, especially [Enklose.Boot]
 
 :::

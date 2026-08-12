@@ -871,24 +871,24 @@ _Generated on 2026-07-30 15:03:45_
 
 * `Krampon`: - <span style="text-decoration: underline lime; font-weight: bold;">Kick</span> into the slope like how Alpinists kick into snow with spikes. Even a Blunt BootSole can Krampon into CutBanks and other LooseSoil Slopes
 
-## Klose;
+## Enklose;
 
-* `Boot`: - [Boot.<span style="text-decoration: underline lime; font-weight: bold;">Klose</span>]
-* `Forces`: - <span style="text-decoration: underline lime; font-weight: bold;">Klose</span>
-* `IceSoil`: - Difficult to <span style="text-decoration: underline lime; font-weight: bold;">Klose</span> since Soil is Malleable
-* `Kick`: - [<span style="text-decoration: underline lime; font-weight: bold;">Klose</span>.Kick]
-* `Pantera`: - [<span style="text-decoration: underline lime; font-weight: bold;">Klose</span>.Pantera]
-* `Plantfor`: - Bag.<span style="text-decoration: underline lime; font-weight: bold;">Klose</span>
-* `Plantfor`: - SilviBag.<span style="text-decoration: underline lime; font-weight: bold;">Klose</span>
-* `Pressure`: - <span style="text-decoration: underline lime; font-weight: bold;">Klose</span>
-* `Root`: - Root preventing <span style="text-decoration: underline lime; font-weight: bold;">Klose</span>, especially [<span style="text-decoration: underline lime; font-weight: bold;">Klose</span>.Boot]
-* `SkidderTrail`: - skidder trails can create a mixture of wood chips and soil which is difficult to <span style="text-decoration: underline lime; font-weight: bold;">Klose</span>.
-* `Slap`: - [<span style="text-decoration: underline lime; font-weight: bold;">Klose</span>.Slap|Mano]
-* `Slap`: - [<span style="text-decoration: underline lime; font-weight: bold;">Klose</span>.Slap.Spade]
-* `Slide`: - Hand Slide up seedling to support it while [<span style="text-decoration: underline lime; font-weight: bold;">Klose</span>.Boot]
-* `Stomp`: - <span style="text-decoration: underline lime; font-weight: bold;">Klose</span>
-* `Waste`: - Waste of Time from lack of confidence, Excessive testing with Spade and after <span style="text-decoration: underline lime; font-weight: bold;">Klose</span>
-* `WetSoil`: - [Slap.<span style="text-decoration: underline lime; font-weight: bold;">Klose</span>|WetSoil]
+* `Boot`: - [Boot.<span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>]
+* `Forces`: - <span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>
+* `IceSoil`: - Difficult to <span style="text-decoration: underline lime; font-weight: bold;">Enklose</span> since Soil is Malleable
+* `Kick`: - [<span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>.Kick]
+* `Pantera`: - [<span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>.Pantera]
+* `Plantfor`: - Bag.<span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>
+* `Plantfor`: - SilviBag.<span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>
+* `Pressure`: - <span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>
+* `Root`: - Root preventing <span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>, especially [<span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>.Boot]
+* `SkidderTrail`: - skidder trails can create a mixture of wood chips and soil which is difficult to <span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>.
+* `Slap`: - [<span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>.Slap|Mano]
+* `Slap`: - [<span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>.Slap.Spade]
+* `Slide`: - Hand Slide up seedling to support it while [<span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>.Boot]
+* `Stomp`: - <span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>
+* `Waste`: - Waste of Time from lack of confidence, Excessive testing with Spade and after <span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>
+* `WetSoil`: - [Slap.<span style="text-decoration: underline lime; font-weight: bold;">Enklose</span>|WetSoil]
 
 ## Kneel;
 
@@ -900,7 +900,7 @@ _Generated on 2026-07-30 15:03:45_
 
 ## Kompakt;
 
-* `Klose`: - [<span style="text-decoration: underline lime; font-weight: bold;">Kompakt</span>|Soil]
+* `Enklose`: - [<span style="text-decoration: underline lime; font-weight: bold;">Kompakt</span>|Soil]
 * `Kompress`: - Differentiate(Kompress,<span style="text-decoration: underline lime; font-weight: bold;">Kompakt</span>)
 * `Kompress`: - Kompressed object can return to original Morfos, like a spring. <span style="text-decoration: underline lime; font-weight: bold;">Kompakt</span> doesn't return back
 * `Kompress`: - <span style="text-decoration: underline lime; font-weight: bold;">Kompakt</span> results in a denser Object
@@ -982,9 +982,9 @@ _Generated on 2026-07-30 15:03:45_
 * `Density`: - [<span style="text-decoration: underline lime; font-weight: bold;">Mano</span>|E|Site.Density] An EKON has lots of ways to be gripped
 * `Eval`: - [<span style="text-decoration: underline lime; font-weight: bold;">Mano</span>.Probe]
 * `Hook`: - [<span style="text-decoration: underline lime; font-weight: bold;">Mano</span>.Hook]
-* `Klose`: - [Klose.<span style="text-decoration: underline lime; font-weight: bold;">Mano</span>]
+* `Enklose`: - [Enklose.<span style="text-decoration: underline lime; font-weight: bold;">Mano</span>]
 * `Rip`: - <span style="text-decoration: underline lime; font-weight: bold;">Mano</span>
-* `Slap`: - [Klose.Slap|<span style="text-decoration: underline lime; font-weight: bold;">Mano</span>]
+* `Slap`: - [Enklose.Slap|<span style="text-decoration: underline lime; font-weight: bold;">Mano</span>]
 * `Tension`: - [Spade.Skim.<span style="text-decoration: underline lime; font-weight: bold;">Mano</span>|Difinger] TwoFingers
 
 ## Markate;
@@ -1032,7 +1032,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Extension`: - Extend is an <span class="labor"><span style="text-decoration: underline lime; font-weight: bold;">Aktion</span></span> , <span class="via">Extension</span> is a <span class="via">Position</span> or <span class="via">Direction</span>
 * `Extension`: - {<span style="text-decoration: underline lime; font-weight: bold;">Aktion</span>: Extend, Direktion: Extension, Position:Extended}
 * `Flexion`: - Flex is an <span class="labor"><span style="text-decoration: underline lime; font-weight: bold;">Aktion</span></span> , <span class="via">Flexion</span> is a <span class="via">Position</span> or <span class="via">Direction</span>
-* `Klose`: - Ektomy is the opposite <span style="text-decoration: underline lime; font-weight: bold;">Aktion</span> of Spade.Klose
+* `Enklose`: - Ektomy is the opposite <span style="text-decoration: underline lime; font-weight: bold;">Aktion</span> of Spade.Enklose
 * `Krampon`: - Krampon <span style="text-decoration: underline lime; font-weight: bold;">Aktion</span> requires rigid BootSole
 * `Lokation`: - {<span style="text-decoration: underline lime; font-weight: bold;">Aktion</span>: Lokate, VIA: Lokate}
 * `Mano`: - The <span style="text-decoration: underline lime; font-weight: bold;">Aktion</span> of Konvexity
@@ -1053,7 +1053,7 @@ _Generated on 2026-07-30 15:03:45_
 
 ## Pantera;
 
-* `Klose`: - [Klose.<span style="text-decoration: underline lime; font-weight: bold;">Pantera</span>]
+* `Enklose`: - [Enklose.<span style="text-decoration: underline lime; font-weight: bold;">Pantera</span>]
 
 ## Plantate;
 
@@ -1141,7 +1141,7 @@ _Generated on 2026-07-30 15:03:45_
 
 ## Rip;
 
-* `Klose`: - [<span style="text-decoration: underline lime; font-weight: bold;">Rip</span>|Skreef] before BootKlose, but after NeonSlot. Instead of Skreefing before NeonSlot
+* `Enklose`: - [<span style="text-decoration: underline lime; font-weight: bold;">Rip</span>|Skreef] before BootEnklose, but after NeonSlot. Instead of Skreefing before NeonSlot
 * `Snap`: - Snap and <span style="text-decoration: underline lime; font-weight: bold;">Rip</span>
 * `Tension`: - <span style="text-decoration: underline lime; font-weight: bold;">Rip</span>
 
@@ -1199,7 +1199,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Dia`: - <span style="text-decoration: underline lime; font-weight: bold;">Skreef</span>.Diameter
 * `Inertia`: - <span style="text-decoration: underline lime; font-weight: bold;">Skreef</span> Ballista
 * `Kick`: - [Kick|<span style="text-decoration: underline lime; font-weight: bold;">Skreef</span>]
-* `Klose`: - [Rip|<span style="text-decoration: underline lime; font-weight: bold;">Skreef</span>] before BootKlose, but after NeonSlot. Instead of Skreefing before NeonSlot
+* `Enklose`: - [Rip|<span style="text-decoration: underline lime; font-weight: bold;">Skreef</span>] before BootEnklose, but after NeonSlot. Instead of Skreefing before NeonSlot
 * `Leaf`: - <span style="text-decoration: underline lime; font-weight: bold;">Skreef</span> through leaves
 * `Mikrosite`: - Add Duff to <span style="text-decoration: underline lime; font-weight: bold;">Skreef</span>, Skreefing, Klimon, Mikrosite
 * `NeonSpecs`: - A <span style="text-decoration: underline lime; font-weight: bold;">Skreef</span> is evidence of effort
@@ -1239,7 +1239,7 @@ _Generated on 2026-07-30 15:03:45_
 
 * `Glove`: - [Glove.Purga.(Skrape,<span style="text-decoration: underline lime; font-weight: bold;">Slap</span>)]
 * `Snap`: - [Snap.<span style="text-decoration: underline lime; font-weight: bold;">Slap</span>]
-* `WetSoil`: - [<span style="text-decoration: underline lime; font-weight: bold;">Slap</span>.Klose|WetSoil]
+* `WetSoil`: - [<span style="text-decoration: underline lime; font-weight: bold;">Slap</span>.Enklose|WetSoil]
 
 ## Slide;
 
@@ -1588,12 +1588,12 @@ _Generated on 2026-07-30 15:03:45_
 * `Friction`: - [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>|EKON]
 * `Friction`: - [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>|E|Friction]
 * `Friction`: - [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>|EKON|Friction]
-* `Klose`: - [Klose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>]
-* `Klose`: - [Klose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Toe]
-* `Klose`: - [Klose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Tarsal]
-* `Klose`: - [Klose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Arch]
-* `Klose`: - [Klose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Heel]
-* `Klose`: - Pitch, Yaw, Roll of <span style="text-decoration: underline lime; font-weight: bold;">Boot</span> or Hand determines the surface of a Klosed hole.
+* `Enklose`: - [Enklose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>]
+* `Enklose`: - [Enklose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Toe]
+* `Enklose`: - [Enklose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Tarsal]
+* `Enklose`: - [Enklose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Arch]
+* `Enklose`: - [Enklose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Heel]
+* `Enklose`: - Pitch, Yaw, Roll of <span style="text-decoration: underline lime; font-weight: bold;">Boot</span> or Hand determines the surface of a Enklosed hole.
 * `Kneel`: - [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Lace.Knot]
 * `Kneel`: - [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Lace.Tighten]
 * `Morfos`: - [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Sole.Morfos]
@@ -1606,11 +1606,11 @@ _Generated on 2026-07-30 15:03:45_
 * `Morfos`: - [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Lace.Morfos]
 * `Pogo`: - [Spade.Tab.Kontakt.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.(MedialSole,MedialRand)]
 * `Precipitation`: - Fall -> (Slip,Slide, [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.AKTION])
-* `Root`: - Root preventing Klose, especially [Klose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>]
+* `Root`: - Root preventing Enklose, especially [Enklose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>]
 * `Sit`: - [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Don.Sit]
 * `Sit`: - [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Doff.Sit]
 * `Ski`: - [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Ski|LooseSoil|Down] <span style="text-decoration: underline lime; font-weight: bold;">Boot</span> loose soil down surf
-* `Slide`: - Hand Slide up seedling to support it while [Klose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>]
+* `Slide`: - Hand Slide up seedling to support it while [Enklose.<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>]
 * `Sock`: - Pull socks up so there are no wrinkles before [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Don]
 * `Stomp`: - Stomp is the <span style="text-decoration: underline lime; font-weight: bold;">Boot</span> equivalent to Pugno
 * `Tibia`: - <span style="text-decoration: underline lime; font-weight: bold;">Boot</span>
@@ -1783,8 +1783,8 @@ _Generated on 2026-07-30 15:03:45_
 * `Jerk`: - [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Pry.Pop]
 * `Jerk`: - [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Slam.Pop|Apex]
 * `Jerk`: - Deeper Ingress by increasing LocalMass MassDistribution when you're already Leaning over onto your <span style="text-decoration: underline lime; font-weight: bold;">Spade</span>. You can do a 30mm Slam like a OneInchPunch. Deepen the Hole and [Dilate.Pry] [Dilate.Collapse]
-* `Klose`: - [Klose.<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>]
-* `Klose`: - Ektomy is the opposite Aktion of <span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Klose
+* `Enklose`: - [Enklose.<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>]
+* `Enklose`: - Ektomy is the opposite Aktion of <span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Enklose
 * `Kompakt`: - Kompakt fine, dry loose SiltSoil before [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Ingress] to ensure that the Soil around the Hole will be dense enough to support the hole otherwise when you Systole the Hole only the soil that was in the Hole will be compressed and will be a loose tree fault.
 * `Lift`: - [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Lift]
 * `Lightning`: - Metal <span style="text-decoration: underline lime; font-weight: bold;">Spade</span>
@@ -1837,7 +1837,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Slam`: - SpadeLeg and ArmOnda and <span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Aktion at same time
 * `Slap`: - [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Purga.Slap]
 * `Slap`: - [Break.<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Slap|Flora]
-* `Slap`: - [Klose.Slap.<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>]
+* `Slap`: - [Enklose.Slap.<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>]
 * `Slide`: - Slide [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Tip] down a stump, then [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Skim.Pry|Skreef]
 * `Stall`: - Stall at the Apex of <span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Slam
 * `Stall`: - [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Slam|Apex]
@@ -1849,7 +1849,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Tibia`: - [Error:<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Skim|Tibia]
 * `Transport`: - [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Transport]
 * `Velocity`: - (SOMON.Velocity+<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Velocity) Every ConcreteELEMENT has the Attribute of Velocity even if it's almost always or always zero. Stationary. Not Moving
-* `Waste`: - Waste of Time from lack of confidence, Excessive testing with <span style="text-decoration: underline lime; font-weight: bold;">Spade</span> and after Klose
+* `Waste`: - Waste of Time from lack of confidence, Excessive testing with <span style="text-decoration: underline lime; font-weight: bold;">Spade</span> and after Enklose
 * `Worm`: - [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Worm]
 
 ## Tarp;
@@ -2003,7 +2003,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Sun`: - <span style="text-decoration: underline lime; font-weight: bold;">Time</span> of Day
 * `TimeEstimation`: [MOTOR:<span style="text-decoration: underline lime; font-weight: bold;">Time</span>|ANIMA:Estimation]
 * `Waste`: - Waste of <span style="text-decoration: underline lime; font-weight: bold;">Time</span>
-* `Waste`: - Waste of <span style="text-decoration: underline lime; font-weight: bold;">Time</span> from lack of confidence, Excessive testing with Spade and after Klose
+* `Waste`: - Waste of <span style="text-decoration: underline lime; font-weight: bold;">Time</span> from lack of confidence, Excessive testing with Spade and after Enklose
 * `Workday`: - <span style="text-decoration: underline lime; font-weight: bold;">Time</span>
 * `Workday`: - <span style="text-decoration: underline lime; font-weight: bold;">Time</span>
 
@@ -2069,7 +2069,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Egression`: - Synkronize [Spade.Egress|Stoma] with [Neon.Ingress|<span style="text-decoration: underline lime; font-weight: bold;">Hand</span>]
 * `Friction`: - (Handle + Glove + <span style="text-decoration: underline lime; font-weight: bold;">Hand</span>)
 * `Friction`: - [Glove|<span style="text-decoration: underline lime; font-weight: bold;">Hand</span>|Friction]
-* `Klose`: - Pitch, Yaw, Roll of Boot or <span style="text-decoration: underline lime; font-weight: bold;">Hand</span> determines the surface of a Klosed hole.
+* `Enklose`: - Pitch, Yaw, Roll of Boot or <span style="text-decoration: underline lime; font-weight: bold;">Hand</span> determines the surface of a Enklosed hole.
 * `Mano`: - Bonobo is a HandMove [AKTION|<span style="text-decoration: underline lime; font-weight: bold;">Hand</span>], but not a Grip [Mano]
 * `Mano`: - (Mano)Implies(<span style="text-decoration: underline lime; font-weight: bold;">Hand</span>) always
 * `Morfos`: - [<span style="text-decoration: underline lime; font-weight: bold;">Hand</span>.Morfos]
@@ -2077,7 +2077,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Slam`: - You can use Tree <span style="text-decoration: underline lime; font-weight: bold;">Hand</span> to assist Spade.Slam from Spade.Skreef
 * `Slide`: - Slide <span style="text-decoration: underline lime; font-weight: bold;">Hand</span> to a new grip site
 * `Slide`: - Slide through <span style="text-decoration: underline lime; font-weight: bold;">Hand</span>
-* `Slide`: - <span style="text-decoration: underline lime; font-weight: bold;">Hand</span> Slide up seedling to support it while [Klose.Boot]
+* `Slide`: - <span style="text-decoration: underline lime; font-weight: bold;">Hand</span> Slide up seedling to support it while [Enklose.Boot]
 * `Stall`: - You can only Stall Korpo as a whole or Tools, you can't Stall your Arm or Leg or <span style="text-decoration: underline lime; font-weight: bold;">Hand</span>
 * `Worm`: - [Worm|<span style="text-decoration: underline lime; font-weight: bold;">Hand</span>]
 * `Wrist`: - "<span style="text-decoration: underline lime; font-weight: bold;">Hand</span> Dorsi Flex" = [Extend|<span style="text-decoration: underline lime; font-weight: bold;">Hand</span>]
@@ -2126,7 +2126,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Flex`: - ([Flex|Arm] = ([Flex|Elbow] + [Flex|<span style="text-decoration: underline lime; font-weight: bold;">Wrist</span>]))
 * `Flex`: - <span style="text-decoration: underline lime; font-weight: bold;">Wrist</span>
 * `Hook`: - [Hook|<span style="text-decoration: underline lime; font-weight: bold;">Wrist</span>]
-* `Klose`: - Avoid RadialDeviation or UlnarDeviation, instead maintain a Neutral <span style="text-decoration: underline lime; font-weight: bold;">Wrist</span>. To avoid [<span style="text-decoration: underline lime; font-weight: bold;">Wrist</span>.Injury]
+* `Enklose`: - Avoid RadialDeviation or UlnarDeviation, instead maintain a Neutral <span style="text-decoration: underline lime; font-weight: bold;">Wrist</span>. To avoid [<span style="text-decoration: underline lime; font-weight: bold;">Wrist</span>.Injury]
 * `Pugno`: - [Pugno|ConcentricContraction] can be used for [Kryos|<span style="text-decoration: underline lime; font-weight: bold;">Wrist</span>] to maintain a neutral wrist
 
 ## Ears;
@@ -2230,7 +2230,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Cranium`: - [Head.<span style="text-decoration: underline lime; font-weight: bold;">Injury</span>]
 * `Fall`: - <span style="text-decoration: underline lime; font-weight: bold;">Injury</span>
 * `Head`: - [Head.<span style="text-decoration: underline lime; font-weight: bold;">Injury</span>]
-* `Klose`: - Avoid RadialDeviation or UlnarDeviation, instead maintain a Neutral Wrist. To avoid [Wrist.<span style="text-decoration: underline lime; font-weight: bold;">Injury</span>]
+* `Enklose`: - Avoid RadialDeviation or UlnarDeviation, instead maintain a Neutral Wrist. To avoid [Wrist.<span style="text-decoration: underline lime; font-weight: bold;">Injury</span>]
 * `Stomp`: - <span style="text-decoration: underline lime; font-weight: bold;">Injury</span>
 
 ## Strength;

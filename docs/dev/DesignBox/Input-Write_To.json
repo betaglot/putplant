@@ -494,7 +494,7 @@
         "    - Flag the log once, instead of each tree",
         "- skidder trails usually avoid rock caps",
         "- skidder trails usually contain stumps which have been \"frayed\" (mushrooming)",
-        "- skidder trails can create a mixture of wood chips and soil which is difficult to Klose.",
+        "- skidder trails can create a mixture of wood chips and soil which is difficult to Enklose.",
         "    - The mixture occurs when the trail goes through the part of the block where they delimb the trees and when the soil is mud."
     ],
     "Mound": [
@@ -914,7 +914,7 @@
         "- KryptoRoot",
         "- Roots in Hole",
         "- Root Chop in Hole",
-        "- Root preventing Klose, especially [Klose.Boot]"
+        "- Root preventing Enklose, especially [Enklose.Boot]"
     ],
     "Stump": [
         "- Use stump as step on steep slopes",
@@ -979,7 +979,7 @@
         "- Freezing Rain",
         "- During Morning and thaws by noon",
         "- At High Elevation",
-        "- Difficult to Klose since Soil is Malleable"
+        "- Difficult to Enklose since Soil is Malleable"
     ],
     "MineralSoil": [
         "- Usually Gray",
@@ -1060,7 +1060,7 @@
         "- Ski",
         "- Slide into a mound then submerge your boot past the cuff",
         "- WetSoil over the top of your [Boot.Cuff] will run down your leg into to boot",
-        "- [Slap.Klose|WetSoil]"
+        "- [Slap.Enklose|WetSoil]"
     ],
     "Erosion": "EMPTY",
     "FibricSoil": "EMPTY",
@@ -1366,7 +1366,7 @@
         "- ErrorDetection",
         "- DensityEval",
         "- HoleEval",
-        "- KloseEval",
+        "- EnkloseEval",
         "- Replant without Neonektomy",
         "- SkreefEval",
         "- KappaBeta",
@@ -1517,7 +1517,7 @@
         "    - Site",
         "        - \"There was a cream patch right beside where you skreefed\"",
         "- Most wasteful alternative BETA",
-        "- Waste of Time from lack of confidence, Excessive testing with Spade and after Klose"
+        "- Waste of Time from lack of confidence, Excessive testing with Spade and after Enklose"
     ],
     "Error": [
         "- Inefficient",
@@ -2177,28 +2177,28 @@
         "    - [Kick.Spartan|Branch]",
         "    - [Kick.Spartan|RottenLog]",
         "    - [Kick|Slash]",
-        "    - [Klose.Kick]",
+        "    - [Enklose.Kick]",
         "    - [Kick|Skreef]"
     ],
-    "Klose": [
-        "- Baker for hand klose",
-        "- [Rip|Skreef] before BootKlose, but after NeonSlot. Instead of Skreefing before NeonSlot",
-        "- Klose|Fingertip",
+    "Enklose": [
+        "- Baker for hand Enklose",
+        "- [Rip|Skreef] before BootEnklose, but after NeonSlot. Instead of Skreefing before NeonSlot",
+        "- Enklose|Fingertip",
         "    - Piano already has the data. Copy piano close ups to chunk. Katalog Katagorize",
         "- BETOMs",
-        "    - [Klose.Bonobo]",
-        "    - [Klose.Pantera]",
-        "    - [Klose.Mano]",
-        "    - [Klose.Spade]",
-        "    - [Klose.Boot]",
-        "    - [Klose.Boot.Toe]",
-        "    - [Klose.Boot.Tarsal]",
-        "    - [Klose.Boot.Arch]",
-        "    - [Klose.Boot.Heel]",
-        "- Pitch, Yaw, Roll of Boot or Hand determines the surface of a Klosed hole.",
+        "    - [Enklose.Bonobo]",
+        "    - [Enklose.Pantera]",
+        "    - [Enklose.Mano]",
+        "    - [Enklose.Spade]",
+        "    - [Enklose.Boot]",
+        "    - [Enklose.Boot.Toe]",
+        "    - [Enklose.Boot.Tarsal]",
+        "    - [Enklose.Boot.Arch]",
+        "    - [Enklose.Boot.Heel]",
+        "- Pitch, Yaw, Roll of Boot or Hand determines the surface of a Enklosed hole.",
         "    - Avoid RadialDeviation or UlnarDeviation, instead maintain a Neutral Wrist. To avoid [Wrist.Injury]",
         "- [Kompakt|Soil]",
-        "- Ektomy is the opposite Aktion of Spade.Klose",
+        "- Ektomy is the opposite Aktion of Spade.Enklose",
         "- Etymology",
         "    - Active Imperative Second Singular Verb of συστέλλω",
         "    - to draw together: shorten sail; to draw in, contract",
@@ -2397,7 +2397,7 @@
         "    - ([Aktion.LowestPoint] == [Aktion.Nadir])"
     ],
     "Pantera": [
-        "- [Klose.Pantera]"
+        "- [Enklose.Pantera]"
     ],
     "Parry": [
         "- Parry Flora whipping back",
@@ -2699,8 +2699,8 @@
         "- [Spade.Purga.Slap]",
         "- [Break.Spade.Slap|Flora]",
         "    - [Passag.Expand] Break branches to clear a path to walk through",
-        "- [Klose.Slap|Mano]",
-        "- [Klose.Slap.Spade]",
+        "- [Enklose.Slap|Mano]",
+        "- [Enklose.Slap.Spade]",
         "- Using the convex or concave surface of Blade",
         "- [Slap|\"Dense Fireweed\"]"
     ],
@@ -2712,7 +2712,7 @@
         "- Slide Flag through Flagger to load it",
         "- Slide through Hand",
         "- Slide TreeHand and Seedling down [Blade.Konvex] during [Mikrosite.Ingress]",
-        "- Hand Slide up seedling to support it while [Klose.Boot]"
+        "- Hand Slide up seedling to support it while [Enklose.Boot]"
     ],
     "Slot": [
         "- ParallelSides",
@@ -2770,7 +2770,7 @@
         "- Leg",
         "- Injury",
         "- Kompress",
-        "- Klose"
+        "- Enklose"
     ],
     "SuperSpike": [
         "- SuperSlam is probably a BETOM",
@@ -3280,7 +3280,7 @@
         "    - [Boot.Tighten]",
         "    - [Boot.Loosen]",
         "    - [Boot.Skim]",
-        "    - [Boot.Klose]",
+        "    - [Boot.Enklose]",
         "    - [Boot.Don]",
         "    - [Boot.Don]",
         "- Boot.Morfos",
@@ -3528,14 +3528,14 @@
         "- Plantfor.Aktion",
         "    - Roll up your back bag layer to shell from water and dirt",
         "    - Bag.Purga",
-        "    - Bag.Klose",
+        "    - Bag.Enklose",
         "    - Pack into itself for Transit, especially PostSeason",
         "- PlantforCarry: One Shoulder strap when one side is empty",
         "- Plantfor.SubElements",
         "    - Bag",
         "        - Rim",
         "        - SilviBag",
-        "            - SilviBag.Klose",
+        "            - SilviBag.Enklose",
         "            - SilviBag.Open",
         "            - SilviBag.Preserve",
         "            - SilviBag.",
@@ -3862,7 +3862,7 @@
         "    - “Put your whole body behind a punch”  ",
         "    - LocalWeight  ",
         "    - Local Mass using Gravity to add energy to an AKTION  ",
-        "        - Klose  ",
+        "        - Enklose  ",
         "        - Kompress  ",
         "        - Slam  ",
         "        - Probe  ",
@@ -3878,7 +3878,7 @@
         "- Crush  ",
         "    - [Error: Crush]  ",
         "- Kompress  ",
-        "- Klose  ",
+        "- Enklose  ",
         "- Pressure of waistbelt on waist  ",
         "- Kompakt"
     ],
@@ -4257,7 +4257,7 @@
     "Injury": [
         "- BETA_Selection",
         "    - Injury weights the BETA_Alternatives",
-        "    - Knee injury increases the weight of ManoKlose",
+        "    - Knee injury increases the weight of ManoEnklose",
         "- Take rest days",
         "- Do the physio",
         "- Jelly Pumps",

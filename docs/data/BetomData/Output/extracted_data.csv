@@ -1070,8 +1070,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Klose-Boot-Arch",
-    "betomglyf": {"labor"="Klose.Boot.Arch"
+    "betomKebab": "Enklose-Boot-Arch",
+    "betomglyf": {"labor"="Enklose.Boot.Arch"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -1087,8 +1087,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Klose-Drag-Boot-Heel",
-    "betomglyf": {"labor"="Klose.Boot.Heel.Drag"
+    "betomKebab": "Enklose-Drag-Boot-Heel",
+    "betomglyf": {"labor"="Enklose.Boot.Heel.Drag"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -1104,8 +1104,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Klose-Drag-Boot-Toe",
-    "betomglyf": {"labor"="Klose.Drag.Boot"
+    "betomKebab": "Enklose-Drag-Boot-Toe",
+    "betomglyf": {"labor"="Enklose.Drag.Boot"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -1121,8 +1121,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Klose-Drag-Boot",
-    "betomglyf": {"labor"="Klose.Boot.Drag"
+    "betomKebab": "Enklose-Drag-Boot",
+    "betomglyf": {"labor"="Enklose.Boot.Drag"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -1138,8 +1138,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Klose-Drag-Hand",
-    "betomglyf": {"labor"="Klose.Drag.Mano"
+    "betomKebab": "Enklose-Drag-Hand",
+    "betomglyf": {"labor"="Enklose.Drag.Mano"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -1155,8 +1155,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Klose-Hand",
-    "betomglyf": {"labor"="Klose.Mano"
+    "betomKebab": "Enklose-Hand",
+    "betomglyf": {"labor"="Enklose.Mano"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -1172,8 +1172,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Klose-Kick-Boot-Heel",
-    "betomglyf": {"labor"="Klose.Kick.Boot.Heel"
+    "betomKebab": "Enklose-Kick-Boot-Heel",
+    "betomglyf": {"labor"="Enklose.Kick.Boot.Heel"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -1189,8 +1189,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Klose-Kick-Boot-Toe",
-    "betomglyf": {"labor"="Klose.Kick.Boot.Toe"
+    "betomKebab": "Enklose-Kick-Boot-Toe",
+    "betomglyf": {"labor"="Enklose.Kick.Boot.Toe"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -1206,8 +1206,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Klose-Leg",
-    "betomglyf": {"labor"="Klose.Boot"
+    "betomKebab": "Enklose-Leg",
+    "betomglyf": {"labor"="Enklose.Boot"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -2345,8 +2345,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Mikrosite-Klose",
-    "betomglyf": {"labor"="Mikrosite.Klose"
+    "betomKebab": "Mikrosite-Enklose",
+    "betomglyf": {"labor"="Mikrosite.Enklose"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -3042,8 +3042,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Palm-Klose",
-    "betomglyf": {"labor"="Klose" ,"soma"="Palm"
+    "betomKebab": "Palm-Enklose",
+    "betomglyf": {"labor"="Enklose" ,"soma"="Palm"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -3892,8 +3892,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Punch-Klose",
-    "betomglyf": {"labor"="Klose.Pugno"
+    "betomKebab": "Punch-Enklose",
+    "betomglyf": {"labor"="Enklose.Pugno"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -4502,8 +4502,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Slap-Klose",
-    "betomglyf": {"labor"="Klose.Slap"
+    "betomKebab": "Slap-Enklose",
+    "betomglyf": {"labor"="Enklose.Slap"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -4774,8 +4774,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Spade-Klose",
-    "betomglyf": {"labor"="Klose.Spade"
+    "betomKebab": "Spade-Enklose",
+    "betomglyf": {"labor"="Enklose.Spade"
     },
     "betomEnglishName": "",
     "betomID": "",

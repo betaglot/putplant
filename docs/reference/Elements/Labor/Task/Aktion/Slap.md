@@ -23,8 +23,8 @@ let elementName = "Slap"
 - [Spade.Purga.Slap]
 - [Break.Spade.Slap|Flora]
     - [Passag.Expand] Break branches to clear a path to walk through
-- [Klose.Slap|Mano]
-- [Klose.Slap.Spade]
+- [Enklose.Slap|Mano]
+- [Enklose.Slap.Spade]
 - Using the convex or concave surface of Blade
 - [Slap|"Dense Fireweed"]
 

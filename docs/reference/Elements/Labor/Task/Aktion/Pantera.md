@@ -20,6 +20,6 @@ let elementName = "Pantera"
 <!-- =================================================== -->
 ::: details &
 
-- [Klose.Pantera]
+- [Enklose.Pantera]
 
 :::

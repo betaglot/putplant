@@ -22,7 +22,7 @@ let elementName = "InjuryPrevention"
 
 - BETA_Selection
     - Injury weights the BETA_Alternatives
-    - Knee injury increases the weight of ManoKlose
+    - Knee injury increases the weight of ManoEnklose
 - Take rest days
 - Do the physio
 - Jelly Pumps

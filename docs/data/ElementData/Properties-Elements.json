@@ -5148,8 +5148,8 @@
             "elementQuote": []
         }
     },
-    "Klose": {
-        "elementEnglishName": "Klose",
+    "Enklose": {
+        "elementEnglishName": "Enklose",
         "elementFrenchName": "",
         "elementSpanishName": "",
         "elementFaktor": "Labor",
@@ -5157,7 +5157,7 @@
         "elementTaxonomy": [
             "Labor",
             "Aktion",
-            "Klose"
+            "Enklose"
         ],
         "elementAlias": [
             "seal",

@@ -280,7 +280,7 @@ function sidebarElements() {
                 { text: '<span class="labor">Iguana</span>', link: '/reference/Elements/Labor/Task/Aktion/Iguana' },
                 { text: '<span class="labor">Jump</span>', link: '/reference/Elements/Labor/Task/Aktion/Jump' },
                 { text: '<span class="labor">Kick</span>', link: '/reference/Elements/Labor/Task/Aktion/Kick' },
-                { text: '<span class="labor">Klose</span>', link: '/reference/Elements/Labor/Task/Aktion/Kick' },
+                { text: '<span class="labor">Enklose</span>', link: '/reference/Elements/Labor/Task/Aktion/Kick' },
                 { text: '<span class="labor">Kneel</span>', link: '/reference/Elements/Labor/Task/Aktion/Kneel' },
                 { text: '<span class="labor">Knot</span>', link: '/reference/Elements/Labor/Task/Aktion/Knot' },
                 { text: '<span class="labor">Kompakt</span>', link: '/reference/Elements/Labor/Task/Aktion/Kompakt' },

@@ -1008,8 +1008,8 @@
         "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BaseMOTONs/Stomp"
     },
     {
-        "ElementName": "TeoremsBaseKlose",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BaseMOTONs/TeoremsBaseKlose"
+        "ElementName": "TeoremsBaseEnklose",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BaseMOTONs/TeoremsBaseEnklose"
     },
     {
         "ElementName": "TeoremsBaseKontakt",
@@ -1352,8 +1352,8 @@
         "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ManoMOTONs/Overview"
     },
     {
-        "ElementName": "TeoremsManoKlose",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ManoMOTONs/TeoremsManoKlose"
+        "ElementName": "TeoremsManoEnklose",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ManoMOTONs/TeoremsManoEnklose"
     },
     {
         "ElementName": "TeoremsManoKontakt",

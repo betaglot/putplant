@@ -63,6 +63,6 @@ Planters kick To remove the layer of organic material off an intended Mikrosite.
 A greater knowledge of possible alternative moves can prevent Christmas Toe from ever occuring.
 
 <!-- <div class="d-flex py-2"><BB :b="{ l:'Spade',s:'',e:'Skreef',v:'',m:'', a:''}"/>&nbsp;instead of only&nbsp;<BB :b="{ l:'Boot',s:'',e:'Skreef',v:'',m:'', a:''}"/></div>
-<div class="d-flex py-2"> :b="{ l:'Klose',s:'Ha<BBnd',e:'',v:'',m:'', a:''}"/>&nbsp;instead of of&nbsp;<BB :b="{ l:'Klose',s:'Foot',e:'',v:'',m:'', a:''}"/></div> -->
+<div class="d-flex py-2"> :b="{ l:'Enklose',s:'Ha<BBnd',e:'',v:'',m:'', a:''}"/>&nbsp;instead of of&nbsp;<BB :b="{ l:'Enklose',s:'Foot',e:'',v:'',m:'', a:''}"/></div> -->
 
 :::

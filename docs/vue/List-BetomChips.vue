@@ -1841,9 +1841,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Boot-Arch",
+        "betomKebab": "Enklose-Boot-Arch",
         "betomglyf": {
-            "labor": "Klose.Boot.Arch"
+            "labor": "Enklose.Boot.Arch"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1859,9 +1859,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Boot",
+        "betomKebab": "Enklose-Boot",
         "betomglyf": {
-            "labor": "Klose.Boot"
+            "labor": "Enklose.Boot"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1877,9 +1877,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Drag-Boot-Heel",
+        "betomKebab": "Enklose-Drag-Boot-Heel",
         "betomglyf": {
-            "labor": "Klose.Drag.Boot.Heel"
+            "labor": "Enklose.Drag.Boot.Heel"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1895,9 +1895,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Drag-Boot-Toe",
+        "betomKebab": "Enklose-Drag-Boot-Toe",
         "betomglyf": {
-            "labor": "Klose.Drag.Boot.Toe"
+            "labor": "Enklose.Drag.Boot.Toe"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1913,9 +1913,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Drag-Boot",
+        "betomKebab": "Enklose-Drag-Boot",
         "betomglyf": {
-            "labor": "Klose.Drag.Boot"
+            "labor": "Enklose.Drag.Boot"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1931,9 +1931,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Drag-Hand",
+        "betomKebab": "Enklose-Drag-Hand",
         "betomglyf": {
-            "labor": "Klose.Drag.Hand"
+            "labor": "Enklose.Drag.Hand"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1949,9 +1949,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Hand",
+        "betomKebab": "Enklose-Hand",
         "betomglyf": {
-            "labor": "Klose.Hand"
+            "labor": "Enklose.Hand"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1967,9 +1967,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Kick-Boot-Heel",
+        "betomKebab": "Enklose-Kick-Boot-Heel",
         "betomglyf": {
-            "labor": "Klose.Kick.Boot.Heel"
+            "labor": "Enklose.Kick.Boot.Heel"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1985,9 +1985,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Kick-Boot-Toe",
+        "betomKebab": "Enklose-Kick-Boot-Toe",
         "betomglyf": {
-            "labor": "Klose.Kick.Boot.Toe"
+            "labor": "Enklose.Kick.Boot.Toe"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2003,9 +2003,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Palm",
+        "betomKebab": "Enklose-Palm",
         "betomglyf": {
-            "labor": "Klose",
+            "labor": "Enklose",
             "soma": "Palm"
         },
         "betomEnglishName": "",
@@ -2022,9 +2022,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Pugno",
+        "betomKebab": "Enklose-Pugno",
         "betomglyf": {
-            "labor": "Klose.Pugno"
+            "labor": "Enklose.Pugno"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2040,9 +2040,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Slap",
+        "betomKebab": "Enklose-Slap",
         "betomglyf": {
-            "labor": "Klose.Slap"
+            "labor": "Enklose.Slap"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2058,9 +2058,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Spade",
+        "betomKebab": "Enklose-Spade",
         "betomglyf": {
-            "labor": "Klose.Spade"
+            "labor": "Enklose.Spade"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -3241,9 +3241,9 @@ const betoms = [
         "dev": []
     },
     {
-        "betomKebab": "Mikrosite-Klose",
+        "betomKebab": "Mikrosite-Enklose",
         "betomglyf": {
-            "labor": "Mikrosite.Klose"
+            "labor": "Mikrosite.Enklose"
         },
         "betomEnglishName": "",
         "betomID": "",

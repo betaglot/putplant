@@ -168,7 +168,7 @@ Joy
 Judgement
 Karabiner
 Kit
-Klose
+Enklose
 Knot
 Kompakt
 Kompress

@@ -40,7 +40,7 @@ let elementName = "SkidderTrail"
     - Flag the log once, instead of each tree
 - skidder trails usually avoid rock caps
 - skidder trails usually contain stumps which have been "frayed" (mushrooming)
-- skidder trails can create a mixture of wood chips and soil which is difficult to Klose.
+- skidder trails can create a mixture of wood chips and soil which is difficult to Enklose.
     - The mixture occurs when the trail goes through the part of the block where they delimb the trees and when the soil is mud.
 -
 

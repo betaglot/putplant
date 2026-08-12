@@ -446,7 +446,7 @@ Use sound and pin to insta
 
 ## <div class="text-h4 mb-4 text-center">PlantaBETA_057</div>
 
-<span class="labor">⭐ Glove.Klose</span>
+<span class="labor">⭐ Glove.Enklose</span>
 <span class="ekos">🟩 Logs</span>
 <span class="via">🔻 Constricted</span>
 </div>
@@ -455,7 +455,7 @@ Use sound and pin to insta
 
 ## <div class="text-h4 mb-4 text-center">PlantaBETA_058</div>
 
-<span class="labor">⭐ Boot.Klose</span>
+<span class="labor">⭐ Boot.Enklose</span>
 <span class="ekos">🟩 CreamSoil</span>
 </div>
 
@@ -495,7 +495,7 @@ Use sound and pin to insta
 
 ## <div class="text-h4 mb-4 text-center">PlantaBETA_063</div>
 
-<span class="labor">⭐ Boot.Klose</span>
+<span class="labor">⭐ Boot.Enklose</span>
 <span class="ekos">🟩 CreamSoil</span>
 
 </div>
@@ -539,7 +539,7 @@ Use sound and pin to insta
 
 ## <div class="text-h4 mb-4 text-center">PlantaBETA_068</div>
 
-<span class="labor">⭐ Glove.Klose.Fist</span>
+<span class="labor">⭐ Glove.Enklose.Fist</span>
 <span class="ekos">🟩 StiffSoil</span>
 </div>
 
@@ -556,7 +556,7 @@ Use sound and pin to insta
 
 ## <div class="text-h4 mb-4 text-center">PlantaBETA_070</div>
 
-<span class="labor">⭐ Boot.Klose.Stomp</span>
+<span class="labor">⭐ Boot.Enklose.Stomp</span>
 <span class="ekos">🟩 StiffSoil</span>
 </div>
 
@@ -713,7 +713,7 @@ Use sound and pin to insta
 
 ## <div class="text-h4 mb-4 text-center">PlantaBETA_089</div>
 
-<span class="labor">⭐ Boot.Klose.HeelStomp</span>
+<span class="labor">⭐ Boot.Enklose.HeelStomp</span>
 
 </div>
 
@@ -721,14 +721,14 @@ Use sound and pin to insta
 
 ## <div class="text-h4 mb-4 text-center">PlantaBETA_090</div>
 
-<span class="labor">⭐ Glove.Klose.Paw</span>
+<span class="labor">⭐ Glove.Enklose.Paw</span>
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
 ## <div class="text-h4 mb-4 text-center">PlantaBETA_091</div>
 
-<span class="labor">⭐ Glove.Klose.Lean</span>
+<span class="labor">⭐ Glove.Enklose.Lean</span>
 
 </div>
 
@@ -753,7 +753,7 @@ Use sound and pin to insta
 
 ## <div class="text-h4 mb-4 text-center">PlantaBETA_094</div>
 
-<span class="labor">⭐ Boot.Klose.HeelStomp</span>
+<span class="labor">⭐ Boot.Enklose.HeelStomp</span>
 
 </div>
 
@@ -778,7 +778,7 @@ Use sound and pin to insta
 
 ## <div class="text-h4 mb-4 text-center">PlantaBETA_097</div>
 
-<span class="labor">⭐ Boot.Klose.ToeStomp</span>
+<span class="labor">⭐ Boot.Enklose.ToeStomp</span>
 
 </div>
 
@@ -870,7 +870,7 @@ Like a baseball pitcher
 
 ## <div class="text-h4 mb-4 text-center">PlantaBETA_107</div>
 
-<span class="labor">⭐ Boot.Klose.ToePress</span>
+<span class="labor">⭐ Boot.Enklose.ToePress</span>
 
 </div>
 
@@ -886,7 +886,7 @@ Like a baseball pitcher
 
 ## <div class="text-h4 mb-4 text-center">PlantaBETA_109</div>
 
-<span class="labor">⭐ Glove.Klose.Twist</span>
+<span class="labor">⭐ Glove.Enklose.Twist</span>
 
 </div>
 

@@ -23,6 +23,6 @@ let elementName = "IceSoil"
 - Freezing Rain
 - During Morning and thaws by noon
 - At High Elevation
-- Difficult to Klose since Soil is Malleable
+- Difficult to Enklose since Soil is Malleable
 
 :::

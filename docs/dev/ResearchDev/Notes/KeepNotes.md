@@ -72,7 +72,7 @@ search: false
 <!-- - <BB labor='Advantage'anima='BeginnersMind'/> Beginner's Mind can be an advantage -->
 <!-- - <BB labor='LookTo'motor='Rhythm'/> Head look like breathing rhythm if swimming front crawl -->
 <!-- - <BB labor='Priority'ekos='Stump'via='Predictability'/> Priority to stumps to increase predictability. affordance of neosite selection -->
-<!-- - Ektomy is the opposite Aktion of SpadeKlose -->
+<!-- - Ektomy is the opposite Aktion of SpadeEnklose -->
 <!-- - Focus on Anima while you wait for soma to get back into shape or into shape for the first time -->
 <!-- - <BB labor='Shirt.Cuff.Button, Remove'/> Remove cuff buttons -->
 <!-- - <BB labor='Teamwork'anima='Question'/> Do you mind if I Jump your line? -->
@@ -93,7 +93,7 @@ search: false
 <!-- - PlantforCarry: One Shoulder strap when one side is empty -->
 <!-- - Fireweed MarkumSite -->
 <!-- - Defined Leader in trenches -->
-<!-- - ManoSkreef before BootKlose, but after NeonInsert -->
+<!-- - ManoSkreef before BootEnklose, but after NeonInsert -->
 <!-- - Soil so soft that the blade goes in a stays by itself when dropped from a given height -->
 <!-- - Trench DeadEnds -->
 <!-- - Ting your Spade to get someone's attention -->
@@ -444,7 +444,7 @@ search: false
     - <https://youtu.be/F5MODFj28oU?feature=shared> -->
 <!-- - BETA_Selection
     - Injury weights the BETA_Alternatives
-    - Knee injury increases the weight of ManoKlose -->
+    - Knee injury increases the weight of ManoEnklose -->
 <!-- - Error.KitTransport
     - Things swinging while you walk
     - Like a cowbell
@@ -599,7 +599,7 @@ search: false
     - efficiency reduces overhead costs to climate
     - food, shelter, transport -->
 <!-- - Stick handling of goalie or players hockey spade move . Andre Doru -->
-<!-- - Bonobo Klose -->
+<!-- - Bonobo Enklose -->
 <!-- - FacebookKappa
     - Watch out for people always In and around You’re piece calling 4’s and taking out trees behind you’re back.  
     - Consistently giving you the worst piece, making you wait for trees or telling you they will be right back and never come, giving everyone a price bump except you. Sticking you in a room with a stranger of the opposite gender telling you don’t tell the bosses !!
@@ -729,7 +729,7 @@ search: false
     - Gaining a tempo in chess means achieving a desirable position or strategic advantage in one fewer move than necessary, essentially making a move that forces the opponent to respond rather than continuing their own plan. A move "with tempo" often develops a piece while simultaneously attacking an opponent's piece, forcing them to waste a turn defending or moving it.   -->
 <!-- - Self-avoiding walk Passage
     - <https://en.wikipedia.org/wiki/Self-avoiding_walk> -->
-<!-- - Baker for hand klose -->
+<!-- - Baker for hand Enklose -->
 <!-- - Box yourself in
 - Weave is via
 - Disconnected boundary voronoi -->
@@ -853,7 +853,7 @@ search: false
 <!-- - A porism is a shortcut
     - Heuristic is a shortcut -->
 <!-- - Using an Umbrella when walking along a sidewalk is computational geometry Praktik -->
-<!-- - Klose|Fingertip
+<!-- - Enklose|Fingertip
     - Piano already has the data. Copy piano close ups to chunk. Katalog Katagorize -->
 <!-- - CrumTask
     - Make list
@@ -1233,7 +1233,7 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
 - Slash  
 - DangerZone  
 - When letting Slash within the DangerZone, you must pay close attention  
-- (Near)InsteadOf(Close) ToReduceConfusion(Klose,Close)  
+- (Near)InsteadOf(Close) ToReduceConfusion(Enklose,Close)  
 - ShakeBag to settle dirt into one corner to ensure that the corner is the lowest Point [Bag|Nadir]  
 - “Tighten up on the flat [only]”  
     - RelativeTo(Limit)  

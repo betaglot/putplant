@@ -36,7 +36,7 @@ elementNameSet = [
     "Morfo",
     "EkosOverview",
     "Catch",
-    "Klose",
+    "Enklose",
     "Flora",
     "Direction",
     "Tangent",
