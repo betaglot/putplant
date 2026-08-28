@@ -14,8 +14,5 @@ const props = defineProps({ imageSource: String, imageLink: String })
 </script>
 
 <style>
-.list {
 
-  background-color: blue;
-}
 </style>
